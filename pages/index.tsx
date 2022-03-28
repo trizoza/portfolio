@@ -96,8 +96,6 @@ const Home: NextPage = () => {
           and few more little projects that are still about to be published.
         </p>
       </main>
-
-      {/* <footer className={styles.footer}></footer> */}
     </div>
   );
 };
