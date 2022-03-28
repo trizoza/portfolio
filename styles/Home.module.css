@@ -10,6 +10,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
 }
 
 .footer {
@@ -42,7 +44,7 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 2rem;
 }
 
 .title,
@@ -112,5 +114,8 @@
   .grid {
     width: 100%;
     flex-direction: column;
+  }
+  .main {
+    width: 90%;
   }
 }
