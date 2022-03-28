@@ -14,7 +14,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <h1 className={styles.title}>Hello! 👋</h1>
         <p className={styles.description}>
-          I am Peter. Software engineer. Indie maker. Dad. In reverse order of
+          I am Peter. Software engineer, indie maker, dad - in reverse order of
           importance.
         </p>
         <p className={styles.description}>
